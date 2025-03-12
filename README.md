@@ -19,7 +19,10 @@ A Model Context Protocol (MCP) server implementation for accessing OpenDota API 
 git clone https://github.com/asusevski/opendota-mcp-server.git
 cd opendota-mcp-server
 
-# Install with uv and only uv (pip is for nerds)
+# Option 1: Automated setup (works with bash, zsh, and other shells)
+./scripts/setup_env.sh
+
+# Option 2: Manual installation with uv
 uv add pyproject.toml
 
 # For development dependencies
