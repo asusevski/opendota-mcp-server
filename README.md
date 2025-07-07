@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asusevski-opendota-mcp-server-badge.png)](https://mseep.ai/app/asusevski-opendota-mcp-server)
+
 # OpenDota MCP Server
 
 A Model Context Protocol (MCP) server implementation for accessing OpenDota API data. This server enables LLMs and AI assistants to retrieve real-time Dota 2 statistics, match data, player information, and more through a standard interface.
