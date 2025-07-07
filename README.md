@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asusevski-opendota-mcp-server-badge.png)](https://mseep.ai/app/asusevski-opendota-mcp-server)
+
 # OpenDota MCP Server
 [![smithery badge](https://smithery.ai/badge/@asusevski/opendota-mcp-server)](https://smithery.ai/server/@asusevski/opendota-mcp-server)
 
