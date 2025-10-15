@@ -1,5 +1,3 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asusevski-opendota-mcp-server-badge.png)](https://mseep.ai/app/asusevski-opendota-mcp-server)
-
 # OpenDota MCP Server
 [![smithery badge](https://smithery.ai/badge/@asusevski/opendota-mcp-server)](https://smithery.ai/server/@asusevski/opendota-mcp-server)
 
@@ -104,6 +102,9 @@ python -m src.client
   - get_team_info - Get information about a team
   - get_public_matches - Get recent public matches
   - get_match_heroes - Get heroes played in a specific match
+
+## Security
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asusevski-opendota-mcp-server-badge.png)](https://mseep.ai/app/asusevski-opendota-mcp-server)
 
 ## License
 
