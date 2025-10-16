@@ -1284,10 +1284,6 @@ async def startup():
 
 
 if __name__ == "__main__":
-    # Startup
-    asyncio.run(startup())
-
-    # Run the server
     logger.info(f"OpenDota API key present: {bool(OPENDOTA_API_KEY)}")
     logger.info("Starting MCP server with stdio transport")
     mcp.run(transport="stdio")
